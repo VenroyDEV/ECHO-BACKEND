@@ -1,0 +1,12 @@
+/home/vnr/Documents/github/ECHO/echo/target/debug/deps/libbitflags-ffbd7bf2a6037578.rmeta: /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/lib.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/iter.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/parser.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/traits.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/public.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/internal.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/external.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/external/serde.rs
+
+/home/vnr/Documents/github/ECHO/echo/target/debug/deps/bitflags-ffbd7bf2a6037578.d: /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/lib.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/iter.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/parser.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/traits.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/public.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/internal.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/external.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/external/serde.rs
+
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/lib.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/iter.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/parser.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/traits.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/public.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/internal.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/external.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.2/src/external/serde.rs:

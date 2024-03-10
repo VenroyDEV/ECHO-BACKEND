@@ -1,0 +1,9 @@
+/home/vnr/Documents/github/ECHO/echo/target/debug/deps/libspl_transfer_hook_interface-1f6e3107ecf686f6.rmeta: /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/lib.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/error.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/instruction.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/offchain.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/onchain.rs
+
+/home/vnr/Documents/github/ECHO/echo/target/debug/deps/spl_transfer_hook_interface-1f6e3107ecf686f6.d: /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/lib.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/error.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/instruction.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/offchain.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/onchain.rs
+
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/lib.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/error.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/instruction.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/offchain.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.5.1/src/onchain.rs:

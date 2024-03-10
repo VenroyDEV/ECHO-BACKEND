@@ -1,0 +1,10 @@
+/home/vnr/Documents/github/ECHO/echo/target/sbf-solana-solana/release/deps/solana_frozen_abi-0bff5b3ee4db2d5d.rmeta: /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/lib.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_digester.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_example.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/hash.rs
+
+/home/vnr/Documents/github/ECHO/echo/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-0bff5b3ee4db2d5d.rlib: /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/lib.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_digester.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_example.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/hash.rs
+
+/home/vnr/Documents/github/ECHO/echo/target/sbf-solana-solana/release/deps/solana_frozen_abi-0bff5b3ee4db2d5d.d: /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/lib.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_digester.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_example.rs /home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/hash.rs
+
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/lib.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_digester.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/abi_example.rs:
+/home/vnr/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.4/src/hash.rs:
