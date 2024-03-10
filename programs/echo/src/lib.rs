@@ -13,7 +13,7 @@ pub mod echo {
         ctx: Context<SubmitReview>,
         user_id: String,
         video_id: String,
-        rating: u8,
+        rating: String,
         jwt: String,
     ) -> Result<()> {
         // Validate the JWT token
@@ -45,14 +45,14 @@ pub mod echo {
 
 #[account]
 pub struct Review {
-    pub user_id: String,
-    pub video_id: String,
-    pub rating: u8,
+    pub const user_id: String,
+    pub const video_id: String,
+    pub const rating: String,
 }
 
 #[derive(Accounts)]
 pub struct SubmitReview<'info> {
-    #[account(init, payer = user, space = 8 + 64 + 64 + 1)]
+    #[account(init, payer = user, space = 8 + 64 + 64 + 1)] // required space in bytes 
     pub review: Account<'info, Review>,
     #[account(mut)]
     pub user: Signer<'info>,
